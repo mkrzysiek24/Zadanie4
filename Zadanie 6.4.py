@@ -9,5 +9,5 @@ def podziel(napis):
     return end
 
 
-s = " Ala ma kota "
-print(podziel(s))
+sa = " Ala ma kota "
+print(podziel(sa))
